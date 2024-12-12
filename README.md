@@ -1,5 +1,5 @@
 # Image-Inpainting:
-Collection of state-of-the-art "Image Inpainting" papers**
+Collection of based "Image Inpainting" techniques papers
 
 ## Traditional methods:
 - PDE-based
